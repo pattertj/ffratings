@@ -1,6 +1,6 @@
 import unittest
 
-from ffratings.module1 import Number
+from src.ffratings.module1 import Number
 
 
 class TestSimple(unittest.TestCase):
