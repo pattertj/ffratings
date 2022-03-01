@@ -3,7 +3,7 @@ A Python library for scraping popular fantasy football draft projections
 
 <p align="center">
   <a href="#description">Description</a> •
-  <a href="#installation">Installation</a> •
+  <a href="#installation">Installation</a>
 </p>
 
 ## Description
