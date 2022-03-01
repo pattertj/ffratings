@@ -15,6 +15,7 @@ pylint = "*"
 pytest = "*"
 pytest-cov = "*"
 pre-commit = "*"
+ffratings = {editable = true, path = "."}
 
 [requires]
 python_version = "3.9"

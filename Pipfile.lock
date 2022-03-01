@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9eb574ec771156660e04abf10abe7a66614699d9de4a3e115ad3cf111ebb3d66"
+            "sha256": "26b4fa307c5e0f59ca145d68c1062061a06681958a66ee800a88f6fb9e8d8fd1"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -137,6 +137,10 @@
                 "sha256:e4b58818180336dc9c529bfb9a0b58728ffc09ad92027a3f30b7cd91e3458579"
             ],
             "version": "==0.3.4"
+        },
+        "ffratings": {
+            "editable": true,
+            "path": "."
         },
         "filelock": {
             "hashes": [
