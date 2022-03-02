@@ -10,7 +10,7 @@ A Python library for scraping popular fantasy football draft projections
 The goal for ``ffratings`` is to provide a wrapper to scraping several popular fantasy foot draft project websites for programmatic consumption. 
 
 ## Installation
-### For Usage in your ownpots
+### For usage in your own programs
 
 ### For development
 Getting up and running with ``ffratings`` is just a few commands:
