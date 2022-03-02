@@ -15,12 +15,11 @@ The goal for ``ffratings`` is to provide a wrapper to scraping several popular f
 ### For development
 Getting up and running with ``ffratings`` is just a few commands:
 
-    # Clone ``ffratings``
+  1) Clone ``ffratings``
+  2) Install dependencies
+  3) Setup pre-commit and pre-push hooks
+    
     git clone https://github.com/pattertj/ffratings.git
-
-    # Install dependencies
-    pipenv install -e . --dev
-
-    # Setup pre-commit and pre-push hooks
+    pipenv install -e . --dev    
     pipenv run pre-commit install -t pre-commit
     pipenv run pre-commit install -t pre-push
